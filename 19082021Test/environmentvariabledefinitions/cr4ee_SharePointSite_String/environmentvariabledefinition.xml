@@ -1,0 +1,10 @@
+<environmentvariabledefinition schemaname="cr4ee_SharePointSite_String">
+  <defaultvalue>https://volvogroup.sharepoint.com/sites/proj-coe_dev</defaultvalue>
+  <displayname default="SharePointSite_String">
+    <label description="SharePointSite_String" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <type>100000000</type>
+</environmentvariabledefinition>
