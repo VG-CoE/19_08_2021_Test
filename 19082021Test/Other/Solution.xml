@@ -79,7 +79,13 @@
     </Publisher>
     <RootComponents>
       <RootComponent type="29" id="{ff0f15a9-c000-ec11-94ef-00224880eb90}" behavior="0" />
+      <RootComponent type="300" schemaName="cr4ee_testapp_8c910" behavior="0" />
     </RootComponents>
-    <MissingDependencies />
+    <MissingDependencies>
+      <MissingDependency>
+        <Required type="1" schemaName="environmentvariablevalue" displayName="Environment Variable Value" solution="EnvironmentVariables (1.0.2.88)" />
+        <Dependent type="300" schemaName="cr4ee_testapp_8c910" displayName="TestApp" />
+      </MissingDependency>
+    </MissingDependencies>
   </SolutionManifest>
 </ImportExportXml>

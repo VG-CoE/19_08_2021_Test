@@ -1,6 +1,6 @@
 <environmentvariabledefinition schemaname="cr4ee_SharePointSite_DB">
   <apiid>/providers/microsoft.powerapps/apis/shared_sharepointonline</apiid>
-  <defaultvalue>https://volvogroup.sharepoint.com/sites/proj-coe_dev</defaultvalue>
+  <defaultvalue>https://volvogroup.sharepoint.com/sites/proj-coe_test</defaultvalue>
   <displayname default="SharePointSite_DB">
     <label description="SharePointSite_DB" languagecode="1033" />
   </displayname>

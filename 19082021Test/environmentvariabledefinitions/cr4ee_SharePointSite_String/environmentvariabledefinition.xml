@@ -1,5 +1,5 @@
 <environmentvariabledefinition schemaname="cr4ee_SharePointSite_String">
-  <defaultvalue>https://volvogroup.sharepoint.com/sites/proj-coe_dev</defaultvalue>
+  <defaultvalue>https://volvogroup.sharepoint.com/sites/proj-coe_test</defaultvalue>
   <displayname default="SharePointSite_String">
     <label description="SharePointSite_String" languagecode="1033" />
   </displayname>
