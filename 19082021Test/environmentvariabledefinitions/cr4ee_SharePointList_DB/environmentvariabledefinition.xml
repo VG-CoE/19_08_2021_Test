@@ -1,0 +1,15 @@
+<environmentvariabledefinition schemaname="cr4ee_SharePointList_DB">
+  <apiid>/providers/microsoft.powerapps/apis/shared_sharepointonline</apiid>
+  <defaultvalue>37079a07-adf8-442c-a38d-95235e781a6a</defaultvalue>
+  <displayname default="SharePointList_DB">
+    <label description="SharePointList_DB" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <parameterkey>table</parameterkey>
+  <parentdefinitionid>
+    <schemaname>cr4ee_SharePointSite_DB</schemaname>
+  </parentdefinitionid>
+  <type>100000004</type>
+</environmentvariabledefinition>
